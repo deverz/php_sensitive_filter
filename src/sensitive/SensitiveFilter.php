@@ -68,7 +68,7 @@ class SensitiveFilter
 
     /**
      * 初始化敏感词HashMap
-     * @param string $file
+     * @param string $file 此处file是文本文件路径,内容格式为：test/words.txt
      * @return null
      * @throws Exception
      */
