@@ -1,5 +1,5 @@
 {
-    "name": "deverz/sensitive_filter",
+    "name": "deverz/php_sensitive_filter",
     "description": "PHP实现的敏感词过滤，基于DFS算法。",
     "type": "library",
     "keywords": ["sensitive", "dfs"],
