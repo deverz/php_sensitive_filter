@@ -1,0 +1,25 @@
+{
+    "name": "deverz/sensitive_filter",
+    "description": "PHP实现的敏感词过滤，基于DFS算法。",
+    "type": "library",
+    "keywords": ["sensitive", "dfs"],
+    "homepage": "https://github.com/deverz/sensitive_filter",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "deverz",
+            "email": "deverz@foxmail.com",
+            "homepage": "https://www.cnblogs.com/deverz/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "sensitive\\": "src/sensitive"
+      }
+    },
+    "minimum-stability": "stable"
+}
